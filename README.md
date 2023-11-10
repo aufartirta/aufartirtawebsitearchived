@@ -1,9 +1,9 @@
 # Data Science | Health Care | Research
 
 ## Education
-- M.Sc., Health Informatics | Karolinska Institutet (_May 2024_)
-- M.D., Medicine | Gadjah Mada University (_Jul 2019_)
-- B.M., Medicine | Gadjah Mada University (_May 2017_)
+- M.Sc., Health Informatics - **Karolinska Institutet (_May 2024_)**
+- M.D., Medicine - **Gadjah Mada University (_Jul 2019_)**
+- B.M., Medicine - **Gadjah Mada University (_May 2017_)**
 
 ## Work Experiences
 **Data Science Laboratory Assistant @ Gadjah Mada University (_Oct 2023 - Present_)**
