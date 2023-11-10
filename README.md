@@ -10,3 +10,6 @@
 - Utilized **Python** to analyze 303 patient records and gain insight into factors contributing to heart disease
 - Executed data cleaning and preprocessing to handle missing values and prepare data for analysis
 - Demonstrated proficiency in statistical analysis and visualization libraries **Pandas**, **Matplotlib**, and **Seaborn** to explore the dataset
+
+## Publication
+1. Sakti DH, Firdaus AT, Utami TP, Jati KDP, Mahayana IT, Wardhana FS, Handayani N. Patients' Satisfaction with Ophthalmology Clinic Services in a Public Teaching Hospital. Patient Prefer Adherence. 2022 Mar 19;16:723-735. [doi: 10.2147/PPA.S347394](https://pubmed.ncbi.nlm.nih.gov/35340758/). PMID: 35340758; PMCID: PMC8943654.
