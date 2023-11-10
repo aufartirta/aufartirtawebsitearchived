@@ -3,7 +3,7 @@
 ## Education
 - M.Sc., Health Informatics | Karolinska Institutet (_May 2024_)
 - M.D., Medicine | Gadjah Mada University (_Jul 2019_)
-- B.M., Medicine | Gadjah Mada University (_AMay 2017_)
+- B.M., Medicine | Gadjah Mada University (_May 2017_)
 
 ## Projects
 ### [1. Exploratory Data Analysis on Cleveland Heart Disease Dataset](https://github.com/aufartirta/EDA-Cleveland-Heart-Disease)
