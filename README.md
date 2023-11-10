@@ -6,13 +6,15 @@
 - B.M., Medicine - **Gadjah Mada University (_May 2017_)**
 
 ## Work Experiences
-**Data Science Laboratory Assistant @ Gadjah Mada University (_Oct 2023 - Present_)**
+**Data Science Laboratory Assistant**
+*Gadjah Mada University (_Oct 2023 - Present_)*
 - Develops comprehensive learning materials and resources to facilitate students' understanding of data science concepts.
 - Conducts online tutorials and seminars to guide students through data analysis projects.
 - Collaborates with instructors to enhance the effectiveness of data science courses and curricula.
 - Assists students in executing data analysis projects, providing guidance on best practices and troubleshooting.
   
-**Ophthalmology Research Assistant @ Dr Sardjito Central Hospital (_Sep 2019 - Jul 2022_)**
+**Ophthalmology Research Assistant**
+*Dr Sardjito Central Hospital (_Sep 2019 - Jul 2022_)*
 - Co-author in a published research paper: Quality of Eye Health Service in Teaching Ophthalmology Clinic of Tertiary Referral Hospital (Dove Medical Press)
 - Collaborated with a multidisciplinary team to design, conduct, and analyze research studies.
 - Generated and analyzed 300+ data on patient care, clinical procedures, and service quality in the ophthalmology clinic, resulting in a 27% improvement in patient satisfaction.
