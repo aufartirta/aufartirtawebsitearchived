@@ -201,9 +201,9 @@ input, select, textarea {
 	}
 
 	code {
-		background: #555;
+		background: #eeeded;
 		border-radius: 5px;
-		color: #fff;
+		color: #454545;
 		font-family: "Source Code Pro", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
